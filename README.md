@@ -1,4 +1,4 @@
-#Descripción Sitio Web TODO-GYM
+# Descripción Sitio Web TODO-GYM
 
  *Todo-GYM es un sitio destinado a la venta de artículos para gimnasio.
 El mismo se divide en 4 secciones *
