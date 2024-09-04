@@ -5,7 +5,7 @@
 
 # Contenido
 
-**Página de Artículos**
+**Página de Artículos:**
 En la página de Artículos, los visitantes pueden explorar la variedad de productos de gimnasio disponibles para la compra. Cada artículo se presenta con una foto del mismo y una descripción detallada. Incluye artículos como: 
 - 	Bandas Elásticas
 - 	Conos
@@ -14,10 +14,10 @@ En la página de Artículos, los visitantes pueden explorar la variedad de produ
 - 	Escalera de coordinación
 - 	Rueda abdominal
 
-**Página de Historia**
+**Página de Historia:**
 La página de Historia ofrece una visión detallada del origen y evolución del emprendimiento TODO GYM. La misma detalla fecha de inicio del emprendimiento, presentación de su fundador, a qué esta destinado el sitio, y la forma en la que trabajan (Medios de Pago y Envíos).
 
-**Página de Formas de Pago**
+**Página de Formas de Pago:**
 En esta página los usuarios encuentran detallada toda la información necesaria para la realización del pago.
 
 - 	Metodos de Pago
@@ -25,7 +25,7 @@ En esta página los usuarios encuentran detallada toda la información necesaria
 - 	Contacto para enviar comprobantes
 - 	Redes Sociales
 
-**Página de Ubicación**
+**Página de Ubicación:**
 La página de Ubicación brinda toda la información necesaria del local físico de TODO GYM, indicando dirección completa con enlace directo a la ubicación de Google Maps, y Foto de referencia. 
 
 
