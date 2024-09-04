@@ -18,7 +18,7 @@ En la página de Artículos, los visitantes pueden explorar la variedad de produ
 La página de Historia ofrece una visión detallada del origen y evolución del emprendimiento TODO GYM. La misma detalla fecha de inicio del emprendimiento, presentación de su fundador, a qué esta destinado el sitio, y la forma en la que trabajan (Medios de Pago y Envíos).
 
 **Página de Formas de Pago**
-En esra página los usuarios encuentran detallada toda la información necesaria para la realización del pago.
+En esta página los usuarios encuentran detallada toda la información necesaria para la realización del pago.
 
 - 	Metodos de Pago
 - 	Datos de Transferencia 
