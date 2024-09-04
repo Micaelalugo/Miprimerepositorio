@@ -31,7 +31,7 @@ La página de Ubicación brinda toda la información necesaria del local físico
 
 
 
-##### Cada una de estas páginas está diseñada con un enfoque en la facilidad de navegación, asegurando que los usuarios encuentren la información que necesitan de manera rápida y eficiente. Además, está adaptada para que pueda ser utilizada por personas con discapacidad de forma que sea lo más sencillo posible navegar en ella.
+### Cada una de estas páginas está diseñada con un enfoque en la facilidad de navegación, asegurando que los usuarios encuentren la información que necesitan de manera rápida y eficiente. Además, está adaptada para que pueda ser utilizada por personas con discapacidad de forma que sea lo más sencillo posible navegar en ella.
 
 
 
